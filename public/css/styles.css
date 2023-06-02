@@ -82,7 +82,6 @@ body {
 
 #contact-main {
     font-family: 'Signika', sans-serif;
-    width: 95%;
 }
 
 #contact-main .contact-heading {
@@ -144,7 +143,7 @@ body {
     text-align: center;
 }
 
-#cv-main #viewer {
+#cv-main object {
     padding: 0px 20px;
 }
 
@@ -171,7 +170,7 @@ body {
     justify-content: center;
 }
 
-@media screen and (min-width:750px) {
+@media screen and (min-width:751px) {
     #projects-main .tab button {
         background-color: inherit;
         float: left;
@@ -269,6 +268,10 @@ body {
 
 #footer a {
     margin: 5px;
+}
+
+#footer i {
+    color: #551A8B;
 }
 
 #footer i:hover {

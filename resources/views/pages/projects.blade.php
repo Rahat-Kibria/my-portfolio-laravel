@@ -45,6 +45,25 @@
                         Code</a>
                 </div>
             </div>
+            <!-- Project 3 -->
+            <div class="project-item">
+                <div class="column1">
+                    <img src="images/html_css/demo_portfolio_linkedin_learnng.png" alt="Demo Portfolio linkedin learning">
+                </div>
+                <div class="column2">
+                    <h3>Demo Portfolio LinkedIn Learning</h3>
+                    <p>This a demo portfolio project made with HTML and CSS with the help of LinkedIn Learning.
+                    </p>
+                    <a class="project-btn" href="https://css-demo-portfolio-linkedin-learning.netlify.app/"
+                        target="_blank">Netlify</a>
+                    <a class="project-btn" href="https://rahat-kibria.github.io/css-portfolio-linkedin-learning/"
+                        target="_blank">Github
+                        Page</a>
+                    <a class="project-btn" href="https://github.com/Rahat-Kibria/css-portfolio-linkedin-learning"
+                        target="_blank">Github
+                        Code</a>
+                </div>
+            </div>
         </div>
         <!-- JavaScript Tab content -->
         <div id="javascript" class="tab-content">
@@ -114,7 +133,8 @@
                     <p>This is a jQuery calculator project, made with HTML,
                         CSS, jQuery with the help of YouTuber Anisul Islam
                     </p>
-                    <a class="project-btn" href="https://jquery-calculator-anisul.netlify.app/" target="_blank">Netlify</a>
+                    <a class="project-btn" href="https://jquery-calculator-anisul.netlify.app/"
+                        target="_blank">Netlify</a>
                     <a class="project-btn" href="https://rahat-kibria.github.io/jquery-calculator-anisul/"
                         target="_blank">Github
                         Page</a>

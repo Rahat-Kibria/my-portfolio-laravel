@@ -13,8 +13,8 @@
                 <a href="tel:+8801832239361">(+880) 18322-39361</a>
             </p>
             <p><i class="fa-solid fa-globe"></i>
-                <a href="https://rahat-kibria-wahy-portfolio.netlify.app/" target="_blank">
-                    https://rahat-kibria-wahy-portfolio.netlify.app/</a>
+                <a href="http://rahat-kibria.rf.gd/" target="_blank">
+                    http://rahat-kibria.rf.gd/</a>
             </p>
         </address>
     </section>
