@@ -1,6 +1,6 @@
 <section id="footer">
     <hr>
-    <p>Updated at <time datetime="2023-05-31 08:30">May 31, 2023</time></p>
+    <p>Updated at <time datetime="2023-08-30 01:00">August 30, 2023</time></p>
     <div class="social-links">
         <a href="https://www.facebook.com/wahy100" target="_blank" title="Facebook"><i
                 class="fa-brands fa-facebook"></i></a>
