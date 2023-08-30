@@ -7,5 +7,6 @@
             <p>Unable to display PDF file. <a href="{{ asset('pdf/CV_Rahat_Kibria.pdf') }}">Download</a> instead.
             </p>
         </object>
+        <a class="cv-download-btn" href="{{ asset('pdf/CV_Rahat_Kibria.pdf') }}">Download</a>
     </section>
 @endsection
