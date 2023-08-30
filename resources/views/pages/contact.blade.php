@@ -16,6 +16,10 @@
                 <a href="http://rahat-kibria.xyz/" target="_blank">
                     http://rahat-kibria.xyz/</a>
             </p>
+            <p><i class="fa-solid fa-globe"></i>
+                <a href="http://rahat-kibria.rf.gd/" target="_blank">
+                    http://rahat-kibria.rf.gd/</a>
+            </p>
         </address>
     </section>
 @endsection
