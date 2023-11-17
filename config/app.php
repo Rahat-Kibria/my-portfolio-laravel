@@ -55,7 +55,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://rahat-kibria.xyz'),
 
     'asset_url' => env('ASSET_URL'),
 

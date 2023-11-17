@@ -3,7 +3,7 @@
 @section('content')
     <section id="main">
         <img src="{{ asset('images/my_image.jpg') }}" alt="My image" width="200">
-        <p>My name is Rahat Kibria. I was born in Chittagong (Chattagram), Bangladesh. I spent most of my
+        <p>My name is Rahat Kibria. I was born in Chittagong (Chattogram), Bangladesh. I spent most of my
             childhood in Chittagong.</p>
         <p>I spent my school and college life at Bangladesh Nou-Bahini School and College Chittagong. After
             that I went to Chittagong College to study BSc in Physics. But after a year, I left Chittagong
